@@ -1,0 +1,167 @@
+body {
+    font-family: "Montserrat";
+}
+#title {
+    background-color: #ff4c68;
+}
+
+.container-fluid {
+    padding: 3% 15% 3% 15%;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 3rem;
+    font-weight: bold;
+    margin-right: 500px;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+
+.download-button {
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.title-image {
+    transform: rotate(25deg);
+    width: 60%;
+}
+
+h1 {
+    font-family: Montserrat-Black 900;
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+    color: rgb(245, 240, 237);
+    
+}
+
+p {
+    color: black;
+    font-weight: 500;
+}
+
+
+em {
+    color: white;
+}
+
+.testimonial-title {
+    font-weight: 900;
+    font-family: "Montserrat";
+    color: rgb(253, 251, 249);
+    padding-bottom: 5%;
+    line-height: 3.5rem;
+    width: 85%;
+    padding-left: 170px;
+
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 50%;
+    margin-right: 25px;
+}
+
+h3 {
+    
+    font-weight: 700;
+    
+}
+
+p {
+    color: rgb(103, 95, 95);
+    padding: 5%;
+}
+
+#features {
+    padding: 7% 15%;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1.5rem;
+    
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    
+
+}
+
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-image {
+    width: 15%;
+    margin: 20px 20px 50px 20px;
+}
+
+#pricing {
+    padding: 50px;
+}
+
+.pricing-heading {
+    text-align: center;
+    font-weight: 900;
+    color: #ef8172;
+    line-height: 0;
+    
+}
+
+.free {
+    font-weight: bold;
+    font-family: "Montserrat";
+    font-size: 3rem;
+}
+
+.pricing-h2 {
+    font-weight: bold;
+    font-size: 3rem;
+    
+}
+
+.pricing-p {
+    
+    font-weight: 800;
+    color: black;
+}
+
+.card-header {
+    font-weight: 500;
+    font-size: 2rem;
+}
+
+.card-body {
+    font-weight: 200;
+    line-height: 1;
+    color: black;
+
+}
